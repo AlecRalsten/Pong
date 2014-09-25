@@ -1,0 +1,20 @@
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\bin\Debug\Pong.exe
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\bin\Debug\Pong.pdb
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\bin\Debug\Pong.xml
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\Pong.pongMain.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\Pong.Resources.resources
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\GenerateResource.read.1.tlog
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\GenerateResource.write.1.tlog
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\Pong.exe
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\Pong.xml
+\\atec.net\warehouse\dev\ralstena\Documents\Visual Studio 2010\Projects\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\obj\x86\Debug\Pong.xml
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\bin\Debug\Pong.xml
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\obj\x86\Debug\Pong.pongMain.resources
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\obj\x86\Debug\Pong.Resources.resources
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\obj\x86\Debug\Pong.vbproj.GenerateResource.Cache
+C:\Users\Aliak\Desktop\Projects\Pong\Pong\obj\x86\Debug\Pong.exe
